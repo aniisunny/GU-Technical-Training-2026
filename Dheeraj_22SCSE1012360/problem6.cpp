@@ -17,5 +17,5 @@ int main(){
     cin>> num;
 
     cout<<" \nThe sum of 1st , 3rd digits are ->"<< calSum(num);
-
+    
 }
